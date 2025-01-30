@@ -1,0 +1,3 @@
+product.property=Productos Profile Dev
+spring.data.mongodb.uri=mongodb://localhost:27017/productosdb
+app.testPropiedad= Propiedad sin refresh
